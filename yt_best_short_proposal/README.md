@@ -12,4 +12,4 @@ biggest object detected in the video [Vertex AI](https://cloud.google.com/vertex
 
 Sounds great? Then wait no more and open the Colab here:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YouTubeLabs/code-samples/blob/main/yt_best_shorts_proposal/yt_best_shorts_proposal.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/YouTubeLabs/code-samples/blob/main/yt_best_short_proposal/yt_best_short_proposal.ipynb) 
